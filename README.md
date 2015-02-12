@@ -42,6 +42,11 @@ Tentative Course Outline
 7. Clustering: Hierarchical and K-Means
 	- [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/index.html) (web tutorial)
 	- [K-means](http://scikit-learn.org/stable/modules/clustering.html#k-means) (scikit-learn documentation)
+<<<<<<< HEAD
+=======
+	- [Clustering: k-means](http://cs.nyu.edu/~dsontag/courses/ml13/slides/lecture14.pdf) (PDF Slides)
+	- [Clustering: Hierarchical Clustering](http://cs.nyu.edu/~dsontag/courses/ml13/slides/lecture15.pdf) (PDF Slides)
+>>>>>>> 016478627c6b1264d8355bed55ac8d2e77152e78
 8. Probability, A/B Tests & Statistical Significance
 	- [Probability and Statistics](https://www.khanacademy.org/math/probability) (Khan Academy Course)
 9. Linear Regression, ANOVA
@@ -57,4 +62,8 @@ Tentative Course Outline
 19. Final Project Working Session
 20. Final Project Presentations (12 min. each)
 21. Final Project Presentations (12 min. each)
+<<<<<<< HEAD
 22. Future Directions 
+=======
+22. Future Directions 
+>>>>>>> 016478627c6b1264d8355bed55ac8d2e77152e78
